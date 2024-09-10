@@ -31,5 +31,9 @@
     "app/lib/placeholder-data.ts",
     "scripts/seed.js"
   ],
+  "rules": {
+   
+    "no-unused-vars": "off"
+  },
   "exclude": ["node_modules"]
 }
